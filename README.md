@@ -132,6 +132,3 @@ The app will be available at `http://localhost:8080`.
 ## Build Info
 - Parent: `org.springframework.boot:spring-boot-starter-parent:3.5.6`
 - Dependencies: Web, Thymeleaf, Data JPA, MySQL driver, Test starter.
-
-## License
-This project is for educational/demonstration purposes. Add a license if you intend to distribute.
